@@ -6,5 +6,6 @@ module.exports = {
     title: `pr4veen`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-postcss"]
+  plugins: ["gatsby-plugin-postcss"],
+  pathPrefix: "/pr4veen"
 };
